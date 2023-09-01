@@ -1,0 +1,17 @@
+{
+    "portfolio": [
+      {
+        "image": "/portfolio/one.png",
+        "title": "GGWP",
+        "description": "React, JSX, Tailwind, Jest",
+        "url": "http://google.com"
+      },
+      {
+        "image": "/portfolio/one.png",
+        "title": "GGWP",
+        "description": "React, JSX, Tailwind, Jest",
+        "url": "http://google.com"
+      }
+    ]
+  }
+  
