@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/zeesh/static/css/main.4a8e7b24.css",
+    "main.js": "/zeesh/static/js/main.00647c3a.js",
+    "static/js/787.25146073.chunk.js": "/zeesh/static/js/787.25146073.chunk.js",
+    "static/media/helvetica-neu.ttf": "/zeesh/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/logo-s.png": "/zeesh/static/media/logo-s.64e4df7a7dc8fe7663f9.png",
+    "static/media/LaBelleAurore.woff2": "/zeesh/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/zeesh/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/zeesh/index.html",
+    "main.4a8e7b24.css.map": "/zeesh/static/css/main.4a8e7b24.css.map",
+    "main.00647c3a.js.map": "/zeesh/static/js/main.00647c3a.js.map",
+    "787.25146073.chunk.js.map": "/zeesh/static/js/787.25146073.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a8e7b24.css",
+    "static/js/main.00647c3a.js"
+  ]
+}
